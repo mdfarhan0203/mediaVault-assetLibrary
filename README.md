@@ -482,10 +482,5 @@ executed badly — and it is last in the suggested order for a reason.
 Please do not. If the work is taking much longer, cut scope and tell us what you
 cut. Knowing what to leave out is part of what we are looking at.
 
----
 
-Send the submission email with your **repo link**, **deployed link** and **video link** when you are
-done to **karan@switchon.io** and cc the following: **abhijeet@switchon.io, ayush@switchon.io, tom@switchon.io, muskan@switchon.io**
 
- Good luck — and if you get stuck on something that turns out to be our bug
-rather than yours, we would genuinely like to know.
